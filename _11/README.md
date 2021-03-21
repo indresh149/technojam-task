@@ -1,1 +1,1 @@
-56
+In this task  i made a birthday card by using Android Studio. I added different layouts and images so that it looks good. Difficluties that i faced in this task is that i am new to android studio so first i have to learn how to use it .
